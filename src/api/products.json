@@ -1,5 +1,8 @@
 [
-  {"id": 1, "title": "iPad 4 Mini", "price": 500.01, "inventory": 2},
-  {"id": 2, "title": "T-Shirt White", "price": 10.99, "inventory": 10},
-  {"id": 3, "title": "iphone 12 pro", "price": 700, "inventory": 5}
+  {"id": 1, "title": "iPad 4 Mini", "price": 500.01,"genre": "Ipad","date": "11-3-2024" , "inventory": 2},
+  {"id": 2, "title": "iphone X", "price": 1000,"genre": "Dien Thoai","date": "12-3-2024"  , "inventory": 5},
+  {"id": 3, "title": "iphone 12 pro", "price": 700,"genre": "Dien Thoai","date": "18-3-2024"  , "inventory": 5},
+  {"id": 4, "title": "SamSung Note 10", "price": 500,"genre": "Dien Thoai","date": "12-4-2024"  , "inventory": 2},
+  {"id": 5, "title": "Acer 5302", "price": 600,"genre": "Laptop","date": "12-7-2024"  , "inventory": 10},
+  {"id": 6, "title": "Oppo F10", "price": 400,"genre": "Dien Thoai","date": "12-8-2024" ,  "inventory": 5}
 ]
